@@ -1,17 +1,14 @@
 #for big datasets
-
 */data/
 
 
 
 #for jupyter notebook
-
 */.ipynb_checkpoints/
-
 .ipynb_checkpoints/
 
 
 
 #for colab
-
+forAccess.ipynb
 for_commit_from_colab_to_github.ipynb
